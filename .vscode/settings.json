@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iterator": "cpp",
+        "iostream": "cpp",
+        "forward_list": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.configureOnOpen": false
+}
